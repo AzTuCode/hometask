@@ -1,0 +1,15 @@
+D:\visual web\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.exe
+D:\visual web\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.deps.json
+D:\visual web\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.json
+D:\visual web\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.runtimeconfig.dev.json
+D:\visual web\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.dll
+D:\visual web\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ref\ConsoleApp7.dll
+D:\visual web\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ConsoleApp7.pdb
+D:\visual web\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual web\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\visual web\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfo.cs
+D:\visual web\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\visual web\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.dll
+D:\visual web\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ref\ConsoleApp7.dll
+D:\visual web\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.pdb
+D:\visual web\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.genruntimeconfig.cache
